@@ -1,0 +1,15 @@
+{
+  "name": "semantic-release-feishu",
+  "version": "0.0.1",
+  "description": "semantic-release feishu notify plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["semantic-release", "feishu"],
+  "author": "WumaCoder",
+  "license": "MIT",
+  "dependencies": {
+    "@semantic-release/error": "^4.0.0"
+  }
+}

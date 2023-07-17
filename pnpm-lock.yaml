@@ -1,0 +1,15 @@
+lockfileVersion: '6.0'
+
+dependencies:
+  '@semantic-release/error':
+    specifier: ^4.0.0
+    version: registry.npmjs.org/@semantic-release/error@4.0.0
+
+packages:
+
+  registry.npmjs.org/@semantic-release/error@4.0.0:
+    resolution: {integrity: sha512-mgdxrHTLOjOddRVYIYDo0fR3/v61GNN1YGkfbrjuIKg/uMgCd+Qzo3UAXJ+woLQQpos4pl5Esuw5A7AoNlzjUQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@semantic-release/error/-/error-4.0.0.tgz}
+    name: '@semantic-release/error'
+    version: 4.0.0
+    engines: {node: '>=18'}
+    dev: false

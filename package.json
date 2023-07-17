@@ -1,5 +1,5 @@
 {
-  "name": "semantic-release-feishu",
+  "name": "semantic-release-feishu2",
   "version": "0.0.1",
   "description": "semantic-release feishu notify plugin",
   "main": "index.js",
